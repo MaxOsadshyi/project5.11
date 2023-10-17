@@ -1,0 +1,8 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: UnitTest1, Конфигурация: Debug x64 ------
+1>UnitTest1.cpp
+1>C:\Users\MAXIMUS\source\repos\Project5.1\UnitTest1\UnitTest1.cpp(19,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+1>UnitTest1.vcxproj -> C:\Users\MAXIMUS\source\repos\Project5.1\x64\Debug\UnitTest1.dll
+1>Сборка проекта "UnitTest1.vcxproj" завершена.
+========== Сборка: успешно выполнено — 1 , со сбоем — 0, в актуальном состоянии — 1, пропущено — 0 ==========
+========== Сборка запущено в 21:51, заняло 00,937 с ==========
